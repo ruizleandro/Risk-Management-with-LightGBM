@@ -20,6 +20,12 @@ Using LightGBM to predict bank customers' credit risk, based on their financial 
 
 ## Model Evaluation
 
+### Feature Importances
+
+[](https://github.com/ruizleandro/Credit_Card_Default_Clients/blob/master/Default%20according%20to%20credit%20limit.png)
+
+### Evaluation Metrics
+
 The final results were:
 1. The accuracy of prediction is: 0.7988165680473372
 2. The roc_auc_score of prediction is: 0.5
