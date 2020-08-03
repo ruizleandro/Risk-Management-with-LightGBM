@@ -22,7 +22,7 @@ Using LightGBM to predict bank customers' credit risk, based on their financial 
 
 ### Feature Importances
 
-[](https://github.com/ruizleandro/Risk-Management-with-LightGBM/blob/master/featureimportances.png)
+[](https://github.com/ruizleandro/Risk-Management-with-LightGBM/blob/master/featureimportances.png?raw=true)
 
 ### Evaluation Metrics
 
