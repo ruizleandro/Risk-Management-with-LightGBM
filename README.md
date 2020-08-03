@@ -18,7 +18,9 @@ Using LightGBM to predict bank customers' credit risk, based on their financial 
 7. *num_iteration*: Sets the number of boosting iterations. The default is 100. For multiclass classification, LightGBM builds `num_class` * `num_iteration` trees. Setting this parameter influences training speed.
 8. *objective*: Like XGBoost, LightGBM supports multiple objectives. The default objective is set to regression. Set this parameter to specify the type of tasj that your model is trying to perform. For regression tasks, the options are `regression_l2`, `regression_l1`, `poisson`, `quantile`, `mape`, `gamma`, `huber`, `fair`, or `tweedie`. For classification tasks, the options are `binary`, `multiclass`, or `multiclassova`. It is important to set the objective correctly to aovid unpredictable results or poor accuracy.
 
-## Model Evaluation
+## Model Development
+
+I performed a grid search to find the best value for the `learning_rate` and for `n_estimators`.
 
 ### Feature Importances
 
