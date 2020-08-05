@@ -20,7 +20,7 @@ Using LightGBM to predict bank customers' credit risk, based on their financial 
 
 ## Model Development
 
-I performed a grid search to find the best value for the `learning_rate` and for `n_estimators`.
+I performed a grid search to find the best value for the `learning_rate`, `n_estimators`, and for `num_leaves`.
 
 ### Feature Importances
 
