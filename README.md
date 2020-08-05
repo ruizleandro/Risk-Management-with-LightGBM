@@ -29,8 +29,11 @@ I performed a grid search to find the best value for the `learning_rate` and for
 ### Evaluation Metrics
 
 The final results were:
-1. The accuracy of prediction is: 0.7988165680473372
-2. The roc_auc_score of prediction is: 0.5
+1. The accuracy of prediction is: 0.8017751479289941
+2. The roc_auc_score of prediction is: 0.5953703703703704
 3. The null accuracy is: 0.7988165680473372
 
-As the accuracy of prediction and the null accuracy are the same, this means that the model predicted all the samples with the most common target label. This can be explained knowing that the dataset used to train the model was very small. But at least now I know how to use LightGBM and how to tune his parameters.
+The final accuracy of the model is 0.802. It is not the most accurate model but is enough for the small dataset that I used for the train stage.
+
+## Future Work
+The next time, I could use a bigger dataset so we can be able to see the real capalbiites of this algorithm.
