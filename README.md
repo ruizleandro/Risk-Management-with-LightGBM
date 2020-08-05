@@ -24,7 +24,7 @@ I performed a grid search to find the best value for the `learning_rate` and for
 
 ### Feature Importances
 
-![Feature Importances](https://github.com/ruizleandro/Risk-Management-with-LightGBM/blob/master/featureimportances.png?raw=true)
+![Feature Importances]
 
 ### Evaluation Metrics
 
