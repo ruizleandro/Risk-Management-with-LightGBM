@@ -36,4 +36,4 @@ The final results were:
 The final accuracy of the model is 0.802. It is not the most accurate model but is enough for the small dataset that I used for the train stage.
 
 ## Future Work
-The next time, I could use a bigger dataset so we can be able to see the real capalbiites of this algorithm.
+The next time, I could use a bigger dataset so we can be able to see the real capabilities of this algorithm.
